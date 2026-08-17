@@ -21,7 +21,8 @@
 ### 🧭 Sobre mim
 
 - 💻 Atualmente sou **desenvolvedor Full Stack**
-- 🚀 No dia a dia trabalho com **Next.js**, **Nest.js**, **Vite.js**, **Tailwindcss**, **shadcn/ui**   e **Docker**
+- 🚀 No dia a dia trabalho com **Next.js**, **Nest.js**, **Vite.js** e **Docker**
+- 🌱 Estudando **MySQL**
 - 💬 Pode falar comigo sobre front-end, back-end e infraestrutura com containers
 - ⚡ Fun fact: sempre buscando automatizar tarefas repetitivas
 
@@ -45,8 +46,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TiaguinhoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaguinhoCode&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TiaguinhoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TiaguinhoCode&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
