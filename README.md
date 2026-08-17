@@ -21,8 +21,7 @@
 ### 🧭 Sobre mim
 
 - 💻 Atualmente sou **desenvolvedor Full Stack**
-- 🚀 No dia a dia trabalho com **Next.js**, **Nest.js**, **Vite.js** e **Docker**
-- 🌱 Estudando **MySQL**
+- 🚀 No dia a dia trabalho com **Next.js**, **Nest.js**, **Vite.js**, **Tailwindcss**, **shadcn/ui**   e **Docker**
 - 💬 Pode falar comigo sobre front-end, back-end e infraestrutura com containers
 - ⚡ Fun fact: sempre buscando automatizar tarefas repetitivas
 
