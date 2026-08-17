@@ -1,31 +1,69 @@
-### Olá! Eu sou Tiago Rafael 😁
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Tiago%20Rafael&fontSize=50&animation=fadeIn&fontColor=fff" width="100%" />
 
-- 🔭 Hoje trabalho com servidores 
-- 🌱 Estudando MySQL
+  <p><b>Software Developer | Full-Stack & Automation</b></p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/seu-usuario)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+- 💻 Desenvolvedor **Full-Stack** focado na criação de APIs robustas, interfaces modernas e automações.
+- 🎓 Estudante de **Ciência da Computação**.
+- 🛠️ Experiência no desenvolvimento de serviços backend escaláveis, sistemas web e fluxos automatizados.
+- ⚡ Interesses em microsserviços, arquitetura modular, integrações de APIs e ecossistema TypeScript.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://github.com/TiaguinhoCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiaguinhoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaguinhoCode&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br/>
+
+  <!-- Backend Frameworks & DB -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+
+  <!-- Frontend Frameworks & Styling -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
+
+  <!-- Tools & Automation -->
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tiagoa-MySQL" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Tiagoa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Megmamen-pic" height="130" style="border-radius:50px;" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif">
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide=html,css"/>
 </div>
-  
-  ##
-  
-  <div>
-  <a href="https://www.instagram.com/tiaguinhoeditoff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tiagorafael019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-pé-de-mosca-reina-252a50253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
- </div>
-  
-![Snake animation](https://github.com/TiaguinhoCode/TiaguinhoCode/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Gerado e personalizado para perfil do GitHub</sub>
+</div>
