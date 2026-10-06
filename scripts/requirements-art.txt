@@ -1,4 +1,0 @@
-# Só para regenerar o retrato ASCII localmente (make_ascii_svg.py).
-# Os demais scripts usam apenas a biblioteca padrão.
-pillow
-numpy

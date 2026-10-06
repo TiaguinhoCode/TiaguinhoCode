@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="Retrato ASCII do Tiago" /></td>
+    <td valign="top"><img src="./assets/avatar-card.svg" width="370" alt="Avatar gamer do Tiago" /></td>
     <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Card estilo neofetch com stack e estatísticas" /></td>
   </tr>
 </table>

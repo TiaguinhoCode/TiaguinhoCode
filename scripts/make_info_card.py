@@ -17,7 +17,7 @@ from theme import ACCENT, ACCENT_2, BORDER, FG, GREEN, MONO, MUTED, PINK, PURPLE
 USER = "TiaguinhoCode"
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "info-card.svg"
-PORTRAIT = ROOT / "assets" / "ascii-portrait.svg"
+PORTRAIT = ROOT / "assets" / "avatar-card.svg"
 CONTRIB = ROOT / "data" / "contributions.json"
 STATIC = os.environ.get("STATIC") == "1"
 W = 490

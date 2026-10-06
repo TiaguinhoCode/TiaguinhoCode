@@ -25,10 +25,11 @@ jobs:
           python-version: "3.12"
 
       # Só biblioteca padrão aqui — nada para instalar.
-      - name: Contribuições
+      - name: Contribuições + avatar
         run: |
           python scripts/fetch_contributions.py
           python scripts/render_heatmap_svg.py
+          python scripts/make_avatar_svg.py
       - name: Card neofetch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
