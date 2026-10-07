@@ -70,9 +70,9 @@
   </g>
   <g class="ln" style="animation-delay:1.4s">
     <text x="24" y="376.0" class="t" font-weight="700" fill="#00e5a0">LVL 12</text>
-    <text x="346" y="376.0" class="k" text-anchor="end">1.219 / 1.352 XP</text>
+    <text x="346" y="376.0" class="k" text-anchor="end">1.224 / 1.352 XP</text>
     <rect x="24" y="384.0" width="322" height="8" rx="4" fill="#161b22" stroke="#30363d"/>
-    <rect class="fill" x="24" y="384.0" width="107.9" height="8" rx="4" fill="url(#xp)"/>
+    <rect class="fill" x="24" y="384.0" width="115.9" height="8" rx="4" fill="url(#xp)"/>
   </g>
-  <g class="ln" style="animation-delay:1.9s"><rect x="24.0" y="410.0" width="127.8" height="22" rx="11" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-opacity=".5"/><text x="87.9" y="425.0" text-anchor="middle" class="b" fill="#ff7b72">🔥 19d em sequência</text><rect x="159.8" y="410.0" width="66.8" height="22" rx="11" fill="#d29922" fill-opacity=".12" stroke="#d29922" stroke-opacity=".5"/><text x="193.2" y="425.0" text-anchor="middle" class="b" fill="#d29922">⚡ 31/dia</text><rect x="234.6" y="410.0" width="97.3" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".5"/><text x="283.2" y="425.0" text-anchor="middle" class="b" fill="#3fb950">📅 232 dias on</text></g>
+  <g class="ln" style="animation-delay:1.9s"><rect x="24.0" y="410.0" width="127.8" height="22" rx="11" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-opacity=".5"/><text x="87.9" y="425.0" text-anchor="middle" class="b" fill="#ff7b72">🔥 19d em sequência</text><rect x="159.8" y="410.0" width="66.8" height="22" rx="11" fill="#d29922" fill-opacity=".12" stroke="#d29922" stroke-opacity=".5"/><text x="193.2" y="425.0" text-anchor="middle" class="b" fill="#d29922">⚡ 31/dia</text><rect x="234.6" y="410.0" width="97.3" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".5"/><text x="283.2" y="425.0" text-anchor="middle" class="b" fill="#3fb950">📅 233 dias on</text></g>
 </svg>
