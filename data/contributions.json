@@ -1,16 +1,16 @@
 {
  "user": "TiaguinhoCode",
  "stats": {
-  "total": 1224,
-  "active_days": 233,
-  "current_streak": 4,
+  "total": 1234,
+  "active_days": 234,
+  "current_streak": 5,
   "longest_streak": 19,
   "best_day": {
    "date": "2026-09-07",
    "level": 4,
    "count": 31
   },
-  "busiest_weekday": 0,
+  "busiest_weekday": 3,
   "months": {
    "2025-10": 21,
    "2025-11": 8,
@@ -24,10 +24,10 @@
    "2026-07": 94,
    "2026-08": 88,
    "2026-09": 161,
-   "2026-10": 45
+   "2026-10": 55
   },
   "from": "2025-10-05",
-  "to": "2026-10-07"
+  "to": "2026-10-08"
  },
  "days": [
   {
@@ -1867,8 +1867,13 @@
   },
   {
    "date": "2026-10-07",
+   "level": 3,
+   "count": 12
+  },
+  {
+   "date": "2026-10-08",
    "level": 1,
-   "count": 4
+   "count": 2
   }
  ]
 }
