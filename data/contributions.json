@@ -1,16 +1,16 @@
 {
  "user": "TiaguinhoCode",
  "stats": {
-  "total": 1885,
-  "active_days": 246,
-  "current_streak": 21,
-  "longest_streak": 21,
+  "total": 1939,
+  "active_days": 247,
+  "current_streak": 22,
+  "longest_streak": 22,
   "best_day": {
    "date": "2026-10-24",
    "level": 4,
-   "count": 83
+   "count": 102
   },
-  "busiest_weekday": 0,
+  "busiest_weekday": 6,
   "months": {
    "2025-10": 2,
    "2025-11": 8,
@@ -24,10 +24,10 @@
    "2026-07": 118,
    "2026-08": 118,
    "2026-09": 185,
-   "2026-10": 646
+   "2026-10": 700
   },
   "from": "2025-10-26",
-  "to": "2026-10-25"
+  "to": "2026-10-26"
  },
  "days": [
   {
@@ -1252,7 +1252,7 @@
   },
   {
    "date": "2026-06-27",
-   "level": 2,
+   "level": 1,
    "count": 21
   },
   {
@@ -1767,7 +1767,7 @@
   },
   {
    "date": "2026-10-08",
-   "level": 2,
+   "level": 1,
    "count": 24
   },
   {
@@ -1782,12 +1782,12 @@
   },
   {
    "date": "2026-10-11",
-   "level": 4,
+   "level": 3,
    "count": 66
   },
   {
    "date": "2026-10-12",
-   "level": 4,
+   "level": 3,
    "count": 70
   },
   {
@@ -1832,7 +1832,7 @@
   },
   {
    "date": "2026-10-21",
-   "level": 3,
+   "level": 2,
    "count": 46
   },
   {
@@ -1848,10 +1848,15 @@
   {
    "date": "2026-10-24",
    "level": 4,
-   "count": 83
+   "count": 102
   },
   {
    "date": "2026-10-25",
+   "level": 2,
+   "count": 35
+  },
+  {
+   "date": "2026-10-26",
    "level": 0,
    "count": 0
   }
