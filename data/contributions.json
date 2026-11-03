@@ -3,7 +3,7 @@
  "stats": {
   "total": 2081,
   "active_days": 252,
-  "current_streak": 6,
+  "current_streak": 0,
   "longest_streak": 22,
   "best_day": {
    "date": "2026-10-24",
@@ -27,7 +27,7 @@
    "2026-11": 6
   },
   "from": "2025-11-02",
-  "to": "2026-11-02"
+  "to": "2026-11-03"
  },
  "days": [
   {
@@ -1857,6 +1857,11 @@
   },
   {
    "date": "2026-11-02",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-11-03",
    "level": 0,
    "count": 0
   }
